@@ -865,4 +865,18 @@ a:hover .social-icon {
   .bread-crumbs {
     top: 100px;
   }
+  .input-search {
+    width: 160px;
+    margin: 8px;
+    padding: 4px;
+    font-size: 16px;
+  }
+  .input-search::placeholder {
+    padding: 4px 0;
+    font-size: 16px;
+  }
+  .sidebar-box--posts-output--preview-img {
+    width: 50px;
+    height: 50px;
+  }
 }
